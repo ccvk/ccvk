@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://p5kttrj1o.bkt.clouddn.com/heika.ipa</string>
+					<string>http://shop.wx320.com/cs/com.jmw.txm.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,15 +33,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xixinduo.heika</string>
+				<string>com.jmw.txm</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>黑卡</string>
+				<string>通讯猫</string>
 				<key>title</key>
-				<string>黑卡</string>
+				<string>通讯猫</string>
 			</dict>
 		</dict>
 	</array>
